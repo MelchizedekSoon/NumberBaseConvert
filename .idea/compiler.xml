@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-classes-java.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-reports-tests.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-test-results.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-tmp.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Average.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Deposit.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Round_and_power.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Rounding_with_a_given_precision.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-An_expression_with_large_numbers.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-BigInteger_facts.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Comparing_numbers.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Double_factorial.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Multiplication.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-The_smallest_value.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-What_can_BigInteger_store.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Where_you_can_get_BigInteger.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Floating-point_types-Determine_the_result.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Floating-point_types-Distance.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Floating-point_types-Evaluate_an_expression.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Floating-point_types-Existing_floating-point_types.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Floating-point_types-Exponential_expression.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Floating-point_types-Find_X.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Floating-point_types-Liquid_pressure.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Floating-point_types-Statements.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Floating-point_types-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Math_library-Compare_the_results.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Math_library-Existing_methods.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Math_library-Heron's_formula.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Math_library-Pow.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Math_library-Quadratic_equation.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Math_library-The_angle_between_vectors.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Math_library-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Math_library-What_does_random_produce.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Math_library-What_is_true.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Processing_strings-Convert_a_date.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Processing_strings-Create_an_euphonious_word.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Processing_strings-Determine_the_value.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Processing_strings-Double_characters.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Processing_strings-Generating_passwords.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Processing_strings-Move_the_first_N_characters.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Processing_strings-Palindrome.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Processing_strings-The_lucky_ticket.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Processing_strings-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Scanning_the_input-Guest_list_of_a_hotel.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Scanning_the_input-Hiring_a_chef.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Scanning_the_input-Print_strings_in_the_reverse_order.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Scanning_the_input-Printing_each_word_in_a_new_line.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Scanning_the_input-Theory.main" target="11" />
+      <module name="Number_Base_Converter.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
